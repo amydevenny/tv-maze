@@ -10,7 +10,7 @@ const $modal = $(".modal");
 
 // URLs
 const missingImage = "https://tinyurl.com/missing-tv";
-const tvmazeApiUrl = "http://api.tvmaze.com/";
+const tvmazeApiUrl = "https://api.tvmaze.com/";
 
 /** Given a search term, search for tv shows that match that query.
  *
